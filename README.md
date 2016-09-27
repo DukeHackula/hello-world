@@ -1,2 +1,2 @@
-# hello-world
+# hello-world Dmitriy Nosov. Odessa Ukraine
 New entry
